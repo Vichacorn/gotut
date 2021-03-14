@@ -5,4 +5,5 @@
 - go to http://localhost:8000/agg 
 
 ### Note
-goserver2.go is implemented version with gorutine
+- goserver2.go is implemented version with gorutine
+- Don't forget to comment one of goserver if you want to run.
